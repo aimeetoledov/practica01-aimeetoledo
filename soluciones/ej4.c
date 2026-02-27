@@ -1,6 +1,13 @@
+//Salida:
+//&a[0] = 5000
+//&a[3] = 5012
 
-#include <stdio.h>
-int main(){
-    // Resolver ejercicio 4
-    return 0;
-}
+//Calcula:
+//tamaño del tipo
+//Entero (4 bytes)
+
+//dirección de a[5]
+//5016
+
+//fórmula que se usó
+//5000+4(n-1)
